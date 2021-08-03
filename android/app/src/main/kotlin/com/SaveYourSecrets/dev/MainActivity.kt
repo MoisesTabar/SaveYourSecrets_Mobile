@@ -1,4 +1,4 @@
-package com.example.save_your_secrets
+package com.SaveYourSecrets.dev
 
 import io.flutter.embedding.android.FlutterActivity
 

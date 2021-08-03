@@ -1,16 +1,28 @@
-# save_your_secrets
+# Save Your Secrets!!!
 
-A new Flutter project.
+Mobile Application to store secret information with security methods and providers
+Built with Flutter and Firebase
 
-## Getting Started
+## Screenshots
+### Página de login
+<img alt="login" src="./assets/login.png" style="width: 250px"/>
 
-This project is a starting point for a Flutter application.
+### Página de inicio
+<img alt="home" src="./assets/main.png" style="width: 250px"/>
 
-A few resources to get you started if this is your first Flutter project:
+### Página de creación
+<img alt="creation" src="./assets/creation.png" style="width: 250px"/>
+<img alt="date" src="./assets/date.png" style="width: 250px"/>
+<img alt="record" src="./assets/recordaudio.png" style="width: 250px"/>
+<img alt="record" src="./assets/recordinitialized.png" style="width: 250px"/>
+<img alt="picture" src="./assets/takepicture.png" style="width: 250px"/>
+<img alt="created" src="./assets/secretcreaated.png" style="width: 250px"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Página de actualización
+<img alt="secretdetail" src="./assets/secretdetail.png" style="width: 250px" />
+<img atl="secretupdate" src="./assets/secretupdate.png" style="width: 250px" />
+
+### Modal de borrado
+<img alt="warning" src="./assets/warning.png" style="width: 250px" />
+<img atl="secretdeleted" src="./assets/secretdeleted.png" style="width: 250px" /
