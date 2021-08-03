@@ -21,8 +21,8 @@ Built with Flutter and Firebase
 
 ### Página de actualización
 <img alt="secretdetail" src="./assets/secretdetail.png" style="width: 60px" />
-<img atl="secretupdate" src="./assets/secretupdate.png" style="width: 60px" />
+<img alt="secretupdate" src="./assets/secretupdate.png" style="width: 60px" />
 
 ### Modal de borrado
 <img alt="warning" src="./assets/warning.png" style="width: 60px" />
-<img atl="secretdeleted" src="./assets/secretdeleted.png" style="width: 60px" /
+<img alt="secretdeleted" src="./assets/secretdeleted.png" style="width: 60px" />
